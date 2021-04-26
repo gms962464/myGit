@@ -1,0 +1,10 @@
+login:
+  path: /s-authbiz/oauth/token?grant_type=password
+  data1:
+    data:
+      accountNo: 13555555555
+      password: c1234567
+    common:
+      mobileEquip: d6bfdea785d0df20
+      appName: "3"
+      mobileSystem: 1

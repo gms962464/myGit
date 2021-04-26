@@ -1,0 +1,9 @@
+MyModule:
+  RuleCenter_path: /s-shopbiz/private/v1/shop/getRuleInfo #规则中心
+  data1:
+    data:
+    common:
+      mobileEquip: d6bfdea785d0df20
+      appName: "3"
+      mobileSystem: 1
+  path: /s-shopbiz/private/v1/shop/getPactInfo #获取用户信息
